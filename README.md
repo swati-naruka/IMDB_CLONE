@@ -7,7 +7,7 @@ HTML
 CSS
 Bootstrap
 JavaScript
-OMDB API
+IMDB API
 
 Functionality
 
